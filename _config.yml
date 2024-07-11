@@ -37,10 +37,9 @@ navigation:
     url: /about
   - name: 归档
     url: /archive
-  - name: 标签
-    url: /tags
   - name: 系列
-    url: /categories
+    url: /tags
+
 
 # 每页的文章数
 paginate: 8
