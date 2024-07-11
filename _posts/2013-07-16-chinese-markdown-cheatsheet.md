@@ -1,4 +1,4 @@
-```
+
 ---
 layout: post
 title: 往者不可谏
@@ -8,7 +8,7 @@ categories: [启明星]
 tags: [寄闻,言陆,纪朝]
 comments: true
 --- 
-```
+
 
 > 启明星系列之一
 > 
