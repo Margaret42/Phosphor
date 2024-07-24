@@ -27,7 +27,8 @@ baseurl: /Phosphor
 # avatar: https://github.com/Margaret42/myship/blob/master/images/logo.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+# favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://s2.loli.net/2024/07/24/m4riUdDhRQnKbN8.png
 
 # 菜单中的按钮
 navigation:
