@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 约稿之源师的李闻朝水彩肖像
